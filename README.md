@@ -75,6 +75,8 @@ This table contains attributes related to the dropoff location, including latitu
 ##### Payment Type Dimension: payment_type_dim 
 This table contains attributes related to the payment types, including a descriptive name for each payment type.
 
+![data_model](https://github.com/pm831/uber_datawarehouse_data_modeling/assets/19572673/aaa8a2b9-f656-469f-8f99-c35f8e1a736c)
+
 Below, once the tables are uploaded to SQLDB, we can join the tables and extract the columns we want for business purposes.
 
 Essentially, this practice of subscribing to an API that contains information, automating that job and data model in Python, writing out the tables in a SQLDB, and performing various queries for data insights and analysis is the most important foundation any business can take to always be tuned in on the latest insights and decisions!!
