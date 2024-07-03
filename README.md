@@ -82,3 +82,5 @@ Below, once the tables are uploaded to SQLDB, we can join the tables and extract
 Essentially, this practice of subscribing to an API that contains information, automating that job and data model in Python, writing out the tables in a SQLDB, and performing various queries for data insights and analysis is the most important foundation any business can take to always be tuned in on the latest insights and decisions!!
 
 Later, I'll take about the latest best practices on how to use data orchestration methods such as Apache Airflow to schedule and optimize the data workloads and jobs! Stay tuned!
+
+![sqlquery](https://github.com/pm831/uber_datawarehouse_data_modeling/assets/19572673/4b79adf4-4594-47a2-b4fe-a472feac4d74)
